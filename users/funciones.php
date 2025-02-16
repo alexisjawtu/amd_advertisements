@@ -238,12 +238,32 @@
 		<span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: Times New Roman; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
 		<span class="Apple-style-span" style="text-align: -webkit-center">
 		<font face="Arial">
-		<a href="http://ar.viarural.com/usuarios/action.php?choice=Cargar"><img src="http://ar.viarural.com/usuarios/cargar.gif"></a></font>
+		<a href="http://ar.viarural.com/users/action.php?choice=Cargar"><img src="http://ar.viarural.com/users/cargar.gif"></a></font>
 		</span></span></td>
 	</tr>
 	<tr>
 		<td align="left" width="243" height="36">
-		<span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: Times New Roman; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<span class="Apple-style-span" 
+      style="border-collapse: separate; 
+	color: rgb(0, 0, 0); 
+	font-family: Times New Roman; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: normal; 
+	letter-spacing: normal; 
+	line-height: normal; 
+	orphans: 2; 
+	text-align: auto; 
+	text-indent: 0px; 
+	text-transform: none; 
+	white-space: normal; 
+	widows: 2; 
+	word-spacing: 0px; 
+	-webkit-border-horizontal-spacing: 0px; 
+	-webkit-border-vertical-spacing: 0px; 
+	-webkit-text-decorations-in-effect: none; 
+	-webkit-text-size-adjust: auto; 
+	-webkit-text-stroke-width: 0px">
 		<span class="Apple-style-span" style="text-align: -webkit-center">
 		<font face="Arial">Estos son sus avisos.</font></span></span></td>
 		<td align="right" width="243" height="36">

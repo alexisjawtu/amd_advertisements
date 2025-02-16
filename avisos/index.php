@@ -12,7 +12,7 @@
 <table width = "92%">
 	   <tr><td> </td>
 	       <td align = "right"><font face = "arial">
-				<a target = "_top" href = "../usuarios/index.php" style = "text-decoration: none;">Acceder</a>
+				<a target = "_top" href = "../users/index.php" style = "text-decoration: none;">Acceder</a>
 							   </font>
 		   </td>
 	   </tr>
@@ -21,7 +21,7 @@
 	require ("lib.php");
 	require ("var.php");
 	echo "<br/>\n<a href = \"http://www.rbauction.com/spanish_site/index.jsp\"><img src = \"ritchie.gif\" alt=\"Ritchie Bros\" border=\"0\" width = \"400\"></a><br/>";
-	encabezado_ ("<br>\n<a href = \"../usuarios/nug.php\" style = \"text-decoration:none;\">Publique gratis sus avisos
+	encabezado_ ("<br>\n<a href = \"../users/nug.php\" style = \"text-decoration:none;\">Publique gratis sus avisos
 				 clasificados en Viarural.</a><br>\n"); // nug = "nuevo usuario gratis"
 	$__link_r = mysql_connect($_host_, $_user_, $_clave_);
 	if(!$__link_r ) {

@@ -200,7 +200,8 @@ function validate() {
 		mostrar_avisos ($_pagi_result, $idusuario);
 		paginado_de_avisos ($_pagi_navegacion, $_pagi_info);
 ?>
-<font face = "arial"><a href="http://ar.viarural.com/usuarios/action.php?choice=Cargar"><img src="http://ar.viarural.com/usuarios/cargar.gif"></a></font>
+<font face = "arial"><a href="http://ar.viarural.com/users/action.php?choice=Cargar">
+<img src="http://ar.viarural.com/users/cargar.gif"></a></font>
 <?php
 		if ($clase != 1) {
 			formulario_aviso_destacado ();

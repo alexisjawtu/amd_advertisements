@@ -61,7 +61,7 @@
 <table width = "92%">
 	   <tr><td> </td>
 	       <td align = "right"><font face = "arial">
-				<a target = "_top" href = "../usuarios/index.php" style = "text-decoration: none;">Acceder</a>
+				<a target = "_top" href = "../users/index.php" style = "text-decoration: none;">Acceder</a>
 							   </font>
 		   </td>
 	   </tr>

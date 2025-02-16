@@ -42,7 +42,7 @@
 					   "Motobombas contra incendio", "Motobombeadores", "Tanques", "Chimango" );
 	$rubros_ = array_unique ($rubros_);
 	sort ($rubros_);
-	$redirectayuda = "http://ar.viarural.com/usuarios/action.php?choice=Ver";
+	$redirectayuda = "http://ar.viarural.com/users/action.php?choice=Ver";
 	$miweb  = "www.viarural.com.ar";
 	$webusuarios = "ar.viarural.com";
 	$array_clases_avisos = array (10476737 => 1, 30791 => 2, 248347 => 3);
